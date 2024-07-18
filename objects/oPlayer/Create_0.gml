@@ -3,6 +3,9 @@
 
 hsp = 0; // horizon speed
 vsp = 0; // vertical speed
-grv = 0.1; // gravity
-walksp = 4; // walk speed
+grv = 0.3; // gravity
+walksp = 6; // walk speed
 
+image_scale = 3
+image_xscale = image_scale;
+image_yscale = image_scale;
