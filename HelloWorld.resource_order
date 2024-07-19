@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"oBullet","order":3,"path":"objects/oBullet/oBullet.yy",},
+    {"name":"oCamera","order":6,"path":"objects/oCamera/oCamera.yy",},
     {"name":"oDead","order":5,"path":"objects/oDead/oDead.yy",},
     {"name":"oEnemy","order":4,"path":"objects/oEnemy/oEnemy.yy",},
     {"name":"oGun","order":2,"path":"objects/oGun/oGun.yy",},
@@ -30,6 +31,7 @@
     {"name":"sGun","order":4,"path":"sprites/sGun/sGun.yy",},
     {"name":"sPlayerA","order":3,"path":"sprites/sPlayerA/sPlayerA.yy",},
     {"name":"sPlayerR","order":2,"path":"sprites/sPlayerR/sPlayerR.yy",},
+    {"name":"sTiles","order":10,"path":"sprites/sTiles/sTiles.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
   ],
 }
