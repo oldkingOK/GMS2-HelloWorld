@@ -1,5 +1,5 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
@@ -16,14 +16,20 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [
-    {"name":"sPlayerA","order":3,"path":"sprites/sPlayerA/sPlayerA.yy",},
-    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+  "ResourceOrderSettings":[
     {"name":"oBullet","order":3,"path":"objects/oBullet/oBullet.yy",},
+    {"name":"oDead","order":5,"path":"objects/oDead/oDead.yy",},
+    {"name":"oEnemy","order":4,"path":"objects/oEnemy/oEnemy.yy",},
     {"name":"oGun","order":2,"path":"objects/oGun/oGun.yy",},
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
     {"name":"sBullet","order":5,"path":"sprites/sBullet/sBullet.yy",},
+    {"name":"sEnemy","order":6,"path":"sprites/sEnemy/sEnemy.yy",},
+    {"name":"sEnemyA","order":7,"path":"sprites/sEnemyA/sEnemyA.yy",},
+    {"name":"sEnemyD","order":9,"path":"sprites/sEnemyD/sEnemyD.yy",},
+    {"name":"sEnemyR","order":8,"path":"sprites/sEnemyR/sEnemyR.yy",},
+    {"name":"sGun","order":4,"path":"sprites/sGun/sGun.yy",},
+    {"name":"sPlayerA","order":3,"path":"sprites/sPlayerA/sPlayerA.yy",},
     {"name":"sPlayerR","order":2,"path":"sprites/sPlayerR/sPlayerR.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
-    {"name":"sGun","order":4,"path":"sprites/sGun/sGun.yy",},
   ],
 }
