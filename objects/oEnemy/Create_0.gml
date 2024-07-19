@@ -6,10 +6,6 @@ grv = 0.3; // gravity
 walksp = 4; // walk speed
 hsp = walksp; // horizon speed
 
-image_scale = 3
-image_xscale = image_scale;
-image_yscale = image_scale;
-
 hp = 4; // 四次打死
 flash = 0; // 帧计数器，白色闪烁
 hitfrom = 0; // 记住最后一次子弹的方向
