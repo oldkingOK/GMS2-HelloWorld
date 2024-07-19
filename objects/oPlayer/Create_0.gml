@@ -7,3 +7,4 @@ grv = 0.3; // gravity
 walksp = 6; // walk speed
 
 controller = 0;
+hascontrol = true;

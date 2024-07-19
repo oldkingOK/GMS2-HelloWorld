@@ -22,7 +22,10 @@
     {"name":"oDead","order":5,"path":"objects/oDead/oDead.yy",},
     {"name":"oEnemy","order":4,"path":"objects/oEnemy/oEnemy.yy",},
     {"name":"oGun","order":2,"path":"objects/oGun/oGun.yy",},
+    {"name":"oLevelEnd","order":8,"path":"objects/oLevelEnd/oLevelEnd.yy",},
+    {"name":"oTransition","order":7,"path":"objects/oTransition/oTransition.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"rTwo","order":1,"path":"rooms/rTwo/rTwo.yy",},
     {"name":"sBullet","order":5,"path":"sprites/sBullet/sBullet.yy",},
     {"name":"sEnemy","order":6,"path":"sprites/sEnemy/sEnemy.yy",},
     {"name":"sEnemyA","order":7,"path":"sprites/sEnemyA/sEnemyA.yy",},
@@ -32,6 +35,7 @@
     {"name":"sPlayerA","order":3,"path":"sprites/sPlayerA/sPlayerA.yy",},
     {"name":"sPlayerR","order":2,"path":"sprites/sPlayerR/sPlayerR.yy",},
     {"name":"sTiles","order":10,"path":"sprites/sTiles/sTiles.yy",},
+    {"name":"sTrigger","order":11,"path":"sprites/sTrigger/sTrigger.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
   ],
 }
