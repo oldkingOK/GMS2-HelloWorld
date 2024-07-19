@@ -9,3 +9,5 @@ image_yscale = image_scale
 
 firingdelay = 0;
 recoil = 0; // 4 -> 0
+
+controllerangle = 0;
