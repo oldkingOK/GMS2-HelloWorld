@@ -34,5 +34,5 @@
     "path":"sprites/sTrigger/sTrigger.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

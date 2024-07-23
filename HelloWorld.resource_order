@@ -26,6 +26,7 @@
     {"name":"oTransition","order":7,"path":"objects/oTransition/oTransition.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
     {"name":"rTwo","order":1,"path":"rooms/rTwo/rTwo.yy",},
+    {"name":"ScreenShake","order":1,"path":"scripts/ScreenShake/ScreenShake.yy",},
     {"name":"sBullet","order":5,"path":"sprites/sBullet/sBullet.yy",},
     {"name":"sEnemy","order":6,"path":"sprites/sEnemy/sEnemy.yy",},
     {"name":"sEnemyA","order":7,"path":"sprites/sEnemyA/sEnemyA.yy",},

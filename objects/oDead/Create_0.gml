@@ -5,4 +5,5 @@ vsp = 0;
 grv = 0.3;
 done = 0;
 
+ScreenShake(6, 20);
 image_speed = 0;

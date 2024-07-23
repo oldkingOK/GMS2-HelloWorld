@@ -45,6 +45,7 @@
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"rOne","path":"rooms/rOne/rOne.yy",},},
     {"id":{"name":"rTwo","path":"rooms/rTwo/rTwo.yy",},},
+    {"id":{"name":"ScreenShake","path":"scripts/ScreenShake/ScreenShake.yy",},},
     {"id":{"name":"SlideTransition","path":"scripts/SlideTransition/SlideTransition.yy",},},
     {"id":{"name":"shWhite","path":"shaders/shWhite/shWhite.yy",},},
     {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},},
