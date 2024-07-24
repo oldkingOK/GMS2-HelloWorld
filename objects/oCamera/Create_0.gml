@@ -12,4 +12,4 @@ yTo = ystart;
 shake_length = 0; // 摇晃时间 = 秒数 * 帧数（60）
 shake_magnitude = 0; // 摇晃幅度
 shake_remain = 0; // 还剩多少需要摇晃
-buff = 32; // 相机的缓冲区，防止相机在摇晃的时候照到地图外面
+buff = 64; // 相机的缓冲区，防止相机在摇晃的时候照到地图外面
