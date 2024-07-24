@@ -27,6 +27,7 @@
     {"name":"oTransition","order":7,"path":"objects/oTransition/oTransition.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
     {"name":"rMenu","order":2,"path":"rooms/rMenu/rMenu.yy",},
+    {"name":"rThree","order":3,"path":"rooms/rThree/rThree.yy",},
     {"name":"rTwo","order":1,"path":"rooms/rTwo/rTwo.yy",},
     {"name":"ScreenShake","order":1,"path":"scripts/ScreenShake/ScreenShake.yy",},
     {"name":"sBullet","order":5,"path":"sprites/sBullet/sBullet.yy",},

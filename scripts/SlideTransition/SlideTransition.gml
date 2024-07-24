@@ -11,4 +11,3 @@ function SlideTransition(_mode, _target)
 		if (argument_count > 1) target = _target;
 	}
 }
-

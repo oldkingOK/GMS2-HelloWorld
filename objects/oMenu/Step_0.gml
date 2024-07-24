@@ -32,15 +32,22 @@ if (menu_x > gui_width+150) and (menu_committed != -1)
 {
 	switch (menu_committed)
 	{
-		case 2: default:
+		case 2:	SlideTransition(TRANS_MODE.NEXT);break;
+		case 1:
 		{
-			SlideTransition(TRANS_MODE.NEXT);
-			break;
+			if (!file_exists(SAVEFILE))
+			{
+				SlideTransition(TRANS_MODE.NEXT);
+			}
+			else
+			{
+				var _file = file_text_open_read(SAVEFILE);
+				var _target = file_text_read_real(_file);
+				file_text_close(_file);
+				SlideTransition(TRANS_MODE.GOTO, _target);
+			}
 		}
-		case 0:
-		{
-			game_end();
-			break;
-		}
+		break;
+		case 0:	game_end();	break;
 	}
 }
