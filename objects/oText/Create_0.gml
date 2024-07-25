@@ -5,6 +5,12 @@ letters = 0;
 text = "This is a test string\nSecond line here!";
 length = string_length(text);
 text_current = "";
+alpha = 0;
+ToAlpha = 0.5;
+alpha_spd = 0.02;
+finish_box = false;
+start_destroy = false;
+finish_destroy = false;
 
 w = 0;
 h = 0;
