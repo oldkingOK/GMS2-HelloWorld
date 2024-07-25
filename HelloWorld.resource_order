@@ -21,6 +21,7 @@
     {"name":"oCamera","order":6,"path":"objects/oCamera/oCamera.yy",},
     {"name":"oDead","order":5,"path":"objects/oDead/oDead.yy",},
     {"name":"oEnemy","order":4,"path":"objects/oEnemy/oEnemy.yy",},
+    {"name":"oEnemyBig","order":10,"path":"objects/oEnemyBig/oEnemyBig.yy",},
     {"name":"oGun","order":2,"path":"objects/oGun/oGun.yy",},
     {"name":"oLevelEnd","order":8,"path":"objects/oLevelEnd/oLevelEnd.yy",},
     {"name":"oMenu","order":9,"path":"objects/oMenu/oMenu.yy",},

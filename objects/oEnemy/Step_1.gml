@@ -9,7 +9,8 @@ if (hp <= 0)
 		direction = other.hitfrom;
 		hsp = lengthdir_x(6, direction);
 		vsp = lengthdir_y(6, direction) - 2; // 加一点垂直初始速度
-		if (hsp != 0) image_xscale *= sign(hsp);
+		if (hsp != 0) image_xscale = sign(hsp) * other.size;
+		image_yscale = other.size;
 	}
 	instance_destroy();
 }
